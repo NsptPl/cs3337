@@ -1,6 +1,6 @@
 #  CS 3337-02 : Team 7 
 <div><b>Team memebers: </b> Nisapat Poolkwan, Michael Salazar, Anthony Suchil, Tammy Xaypraseuth, Ying Juan Yu <br><div>
-<div><b>Project Name: </b>Harmony</div>
+<div><b>Product Name: </b>Harmony</div>
 <div><b>Project Descripion: </b></div>
 <p><i><ins>Situation: </ins></i> Our ideal customers are companies or employers that want to provide a
 music-listening experience in the workplace, an experience that not only works to boost
