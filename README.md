@@ -1,8 +1,8 @@
-# Harmony [Team 7, CS 3337-02] 
+# Harmony 
 ![Harmony Logo](https://github.com/NsptPl/cs3337-02-Team-7/blob/18cd40d87fcedc1bd8eb849e2560804f5ec7f2f0/main_code/assets/img/retro_logo.png?raw=true)
 
 
-## Team Contributors
+## Team 7 Contributors
 - [Tammy Xaypraseuth](https://github.com/tammyxa)
 - [Anthony Suchil](https://github.com/coderadxniel)
 - [Nisapat Poolkwan](https://github.com/NsptPl)
