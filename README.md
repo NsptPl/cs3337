@@ -1,6 +1,6 @@
 #  CS 3337-02 : Team 7 
 
-![Harmony Logo]([https://github.com/NsptPl/cs3337-02-Team-7/blob/main/image.jpg](https://github.com/NsptPl/cs3337-02-Team-7/blob/18cd40d87fcedc1bd8eb849e2560804f5ec7f2f0/main_code/assets/img/retro_logo.png)?raw=true)
+![Harmony Logo](https://github.com/NsptPl/cs3337-02-Team-7/blob/18cd40d87fcedc1bd8eb849e2560804f5ec7f2f0/main_code/assets/img/retro_logo.png?raw=true)
 
 <div><b>Team memebers: </b> Nisapat Poolkwan, Michael Salazar, Anthony Suchil, Tammy Xaypraseuth, Ying Juan Yu <br><div>
 <div><b>Product Name: </b>Harmony</div>
@@ -15,3 +15,5 @@ the different types of work environments.
 <i><ins>Target: </ins></i> Our customer objective is to deliver a product that is intuitive and hassle-free, for both
 employers and employees, in order to provide a seamless listening experience, an experience that
 requires little to no work to maintain, and works to benefit the workplace and everyone in it.</p>
+
+
