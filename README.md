@@ -28,9 +28,11 @@ requires little to no work to maintain, and works to benefit the workplace and e
 - Support for popular version control systems
 
 ## Getting Started
-1. Clone the repository: `git clone https://github.com/your-username/harmony.git`
+1. Clone the repository: `git clone https://github.com/NsptPl/harmony.git`
 2. Install dependencies: `npm install`
-3. Start the development server: `npm start`
+3. Build the development app: `npm run build`
+4. Preview the development enviorment: `npm run preview`
+5. Connect to the app locally: ``http://localhost:3000``
 
 ## License
 Harmony is released under the [MIT License](https://opensource.org/licenses/MIT).
