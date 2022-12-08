@@ -3,11 +3,11 @@
 
 
 ## Team Contributors
-- [Tammy Xaypraseuth](https://github.com/your-username)
-- [Anthony Suchil](https://github.com/another-username)
-- [Nisapat Poolkwan](https://github.com/another-username)
-- [Ying Juan Yu](https://github.com/another-username)
-- [Michael Salazar](https://github.com/another-username)
+- [Tammy Xaypraseuth](https://github.com/tammyxa)
+- [Anthony Suchil](https://github.com/coderadxniel)
+- [Nisapat Poolkwan](https://github.com/NsptPl)
+- [Ying Juan Yu](https://github.com/type-ur-username)
+- [Michael Salazar](https://github.com/type-ur-username)
 
 ## About
 Harmony is a project that aims to create a simple and user-friendly tool for managing and collaborating on software development projects.
