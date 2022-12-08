@@ -22,13 +22,13 @@ employers and employees, in order to provide a seamless listening experience, an
 requires little to no work to maintain, and works to benefit the workplace and everyone in it.</p>
   
 ## Features
-- An intuitive and user-friendly interface that is easy for both employers and employees to use
-- Automated or semi-automated setup and configuration to minimize the work required to get started
-- Integration with popular workplace tools and platforms, such as email, slack, and project management software
-- The ability for employers to customize and tailor the listening experience to their specific needs and preferences
-- Real-time analytics and reporting to help employers track and measure the effectiveness of the listening experience
+- A customizable music-playing interface that allows employers to control the volume, genre, and specific tracks being played in the workplace
+- Integration with popular workplace tools and platforms, such as email, slack, and project management software, to allow employees to easily make music requests and provide feedback
+- The ability for employers to set limits and boundaries on the type and volume of music played, to ensure that it does not disrupt the work environment
+- Real-time analytics and reporting to help employers track and measure the effectiveness of the music listening experience on employee morale and productivity
 - Support for multiple languages and localization to make the product accessible to a wider audience
-- Security and privacy controls to protect sensitive data and ensure compliance with relevant regulations.
+- Security and privacy controls to protect sensitive data and ensure compliance with relevant regulations
+- A user-friendly and intuitive interface for both employers and employees to easily manage and control the music listening experience.
 
 ## Getting Started
 1. Clone the repository: `git clone https://github.com/NsptPl/cs3337-02-Team-7/Harmony.git`
