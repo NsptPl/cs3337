@@ -18,6 +18,8 @@ requires little to no work to maintain, and works to benefit the workplace and e
 
 
 # Harmony
+![Harmony Logo](https://github.com/NsptPl/cs3337-02-Team-7/blob/18cd40d87fcedc1bd8eb849e2560804f5ec7f2f0/main_code/assets/img/retro_logo.png?raw=true)
+
 
 ## Team Contributors
 - [Your Name](https://github.com/your-username)
