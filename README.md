@@ -17,3 +17,24 @@ employers and employees, in order to provide a seamless listening experience, an
 requires little to no work to maintain, and works to benefit the workplace and everyone in it.</p>
 
 
+# Harmony
+
+## Team Contributors
+- [Your Name](https://github.com/your-username)
+- [Another Member](https://github.com/another-username)
+
+## About
+Harmony is a project that aims to create a simple and user-friendly tool for managing and collaborating on software development projects.
+
+## Features
+- Easy to use interface
+- Real-time collaboration
+- Support for popular version control systems
+
+## Getting Started
+1. Clone the repository: `git clone https://github.com/your-username/harmony.git`
+2. Install dependencies: `npm install`
+3. Start the development server: `npm start`
+
+## License
+Harmony is released under the [MIT License](https://opensource.org/licenses/MIT).
