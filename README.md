@@ -10,7 +10,6 @@
 - [Michael Salazar](https://github.com/type-ur-username)
 
 ## About
-Harmony is a project that aims to create a simple and user-friendly tool for managing and collaborating on software development projects.
 <p><i><ins>Situation: </ins></i> Our ideal customers are companies or employers that want to provide a
 music-listening experience in the workplace, an experience that not only works to boost
 company morale, but serves to increase productivity and engagement amongst its employees.
@@ -23,9 +22,13 @@ employers and employees, in order to provide a seamless listening experience, an
 requires little to no work to maintain, and works to benefit the workplace and everyone in it.</p>
   
 ## Features
-- Easy to use interface
-- Real-time collaboration
-- Support for popular version control systems
+- An intuitive and user-friendly interface that is easy for both employers and employees to use
+- Automated or semi-automated setup and configuration to minimize the work required to get started
+- Integration with popular workplace tools and platforms, such as email, slack, and project management software
+- The ability for employers to customize and tailor the listening experience to their specific needs and preferences
+- Real-time analytics and reporting to help employers track and measure the effectiveness of the listening experience
+- Support for multiple languages and localization to make the product accessible to a wider audience
+- Security and privacy controls to protect sensitive data and ensure compliance with relevant regulations.
 
 ## Getting Started
 1. Clone the repository: `git clone https://github.com/NsptPl/cs3337-02-Team-7/Harmony.git`
