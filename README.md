@@ -28,7 +28,7 @@ requires little to no work to maintain, and works to benefit the workplace and e
 - Support for popular version control systems
 
 ## Getting Started
-1. Clone the repository: `git clone https://github.com/NsptPl/harmony.git`
+1. Clone the repository: `git clone https://github.com/NsptPl/cs3337-02-Team-7/Harmony.git`
 2. Install dependencies: `npm install`
 3. Build the development app: `npm run build`
 4. Preview the development enviorment: `npm run preview`
