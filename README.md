@@ -1,4 +1,7 @@
 #  CS 3337-02 : Team 7 
+
+![Harmony Logo]([https://github.com/NsptPl/cs3337-02-Team-7/blob/main/image.jpg](https://github.com/NsptPl/cs3337-02-Team-7/blob/18cd40d87fcedc1bd8eb849e2560804f5ec7f2f0/main_code/assets/img/retro_logo.png)?raw=true)
+
 <div><b>Team memebers: </b> Nisapat Poolkwan, Michael Salazar, Anthony Suchil, Tammy Xaypraseuth, Ying Juan Yu <br><div>
 <div><b>Product Name: </b>Harmony</div>
 <div><b>Project Descripion: </b></div>
