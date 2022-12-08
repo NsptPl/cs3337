@@ -1,0 +1,194 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#svelte {
+  @apply flex min-h-screen flex-col;
+}
+
+@font-face {
+  font-family: Alba-Super;
+  font-weight: normal;
+  font-style: normal;
+  src: url(/alba.super.ttf);
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1{
+  font-family: Alba-Super;
+}
+
+p.harmony { 
+  font-family: Alba-Super;
+}
+
+p.harmonytext { 
+  color: #444c64;
+}
+
+.input-label {
+  @apply mb-2 text-sm font-bold tracking-wide text-gray-700;
+}
+
+.input-field {
+  @apply w-full rounded border border-gray-400 text-gray-700 hover:border-gray-500;
+}
+
+.form-validation-error {
+  @apply text-red-600;
+}
+
+.btn-spotify {
+  @apply rounded bg-spotify-green py-4 px-6 text-xl text-white shadow-md;
+}
+
+.btn-spotify:hover {
+  @apply bg-spotify-hover-green;
+}
+
+
+.white-gradient-bg {
+  background: radial-gradient(
+    circle,
+    rgba(41, 65, 171, 0.75) 0%,
+    rgba(37, 114, 188, 0.75) 0%,
+    rgba(255, 255, 255, 0.25) 0%
+  );
+}
+
+.img-bg {
+  background-image: url('/retro_wallpaper_masthead.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+.field-required:after {
+  content: ' *';
+  @apply text-red-600;
+}
+
+.loader {
+  border-top-color: #1db954;
+  animation: spinner 1.5s linear infinite;
+}
+
+@keyframes spinner {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+
+.topBar a {
+  color: rgba(68,20,4);
+  text-decoration: none;
+  font-size: 1.2em;
+  text-transform: uppercase;
+  font-weight: 500;
+  display: inline-block;
+  width: 80px;
+  -webkit-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+}
+
+.topBar a:hover {
+  color: rgba(251,155,4);
+}
+
+.topBar .dot {
+  width: 6px;
+  height: 6px;
+  background: rgba(251,155,4);
+  border-radius: 50%;
+  opacity: 0;
+  -webkit-transform: translateX(30px);
+  transform: translateX(30px);
+  -webkit-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+}
+
+.topBar a:nth-child(1):hover ~ .dot {
+  -webkit-transform: translateX(30px);
+  transform: translateX(30px);
+  -webkit-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+  opacity: 1;
+}
+
+.topBar a:nth-child(2):hover ~ .dot {
+  -webkit-transform: translateX(110px);
+  transform: translateX(110px);
+  -webkit-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+  opacity: 1;
+}
+
+.topBar a:nth-child(3):hover ~ .dot {
+  -webkit-transform: translateX(200px);
+  transform: translateX(200px);
+  -webkit-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+  opacity: 1;
+}
+
+.topBar a:nth-child(4):hover ~ .dot {
+  -webkit-transform: translateX(285px);
+  transform: translateX(285px);
+  -webkit-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+  opacity: 1;
+}
+
+.design-dot-black {
+  width: 100px;
+  height: 100px;
+  left: 30px;
+  top: -75px;
+  background-color: #c02101;
+  --tw-bg-opacity: 500;
+  position: absolute;
+  display: block;
+  border-radius: 9999px;
+}
+
+.design-dot-red {
+  width: 150px;
+  height: 150px;
+  left: -80px;
+  top: -80px;
+  position: absolute;
+  display: block;
+  border-radius: 9999px;
+  background-color: #431307;
+  --tw-bg-opacity: 1;
+}
+
+.design-black-2 {
+  width: 150px;
+  height: 150px;
+  right: -80px;
+  bottom: -80px;
+  position: absolute;
+  display: block;
+  border-radius: 9999px;
+  --tw-bg-opacity: 1;
+  background-color: #c02101;
+}
+
+.design-red-2 {
+  width: 100px;
+  height: 100px;
+  right: 30px;
+  bottom: -75px;
+  position: absolute;
+  display: block;
+  border-radius: 9999px;
+  --tw-bg-opacity: 500;
+  background-color: #431307;
+}
