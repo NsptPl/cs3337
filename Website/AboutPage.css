@@ -1,13 +1,13 @@
 @font-face{
 	font-family: Alba-Super;
-	src: url(../assets/fonts/alba.super.ttf);
+	src: url(alba.super.ttf);
 	font-weight: normal;
 	font-style: normal;
 }
 
 @font-face{
 	font-family: Montserrat-Regular;
-	src: url(../assets/fonts/Montserrat-Regular.ttf);
+	src: url(Montserrat-Regular.ttf);
 	font-weight: normal;
 	font-style: normal;
 }
