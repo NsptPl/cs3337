@@ -35,7 +35,7 @@ requires little to no work to maintain, and works to benefit the workplace and e
 2. Install dependencies: `npm install`
 3. Build the development app: `npm run build`
 4. Preview the development enviorment: `npm run preview`
-5. Connect to the app locally: ``http://localhost:3000``
+5. Connect to the app locally: ``http://localhost:3000/``
 
 ## License
 Harmony is released under the [MIT License](https://opensource.org/licenses/MIT).
