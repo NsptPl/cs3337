@@ -96,11 +96,11 @@
             Harmony
           </h1> 
             <p class="mb-3">
-              Are you tired of creating your playlists for upcoming concerts or
-              festivals manually?
+              Are you looking to create a custom playlists for you and your co-workers
+              to jam out to while in the office?
             </p>
             <p class="mb-3">
-              With ConcertMash, you simply enter the artists, choose which song
+              With Harmony, you simply enter the artists, choose which song
               types should be included, and your playlist will be ready in
               seconds.
             </p>
