@@ -3,11 +3,11 @@
 
 
 ## Team 7 Contributors
-- [Tammy Xaypraseuth](https://github.com/tammyxa)
-- [Anthony Suchil](https://github.com/coderadxniel)
-- [Nisapat Poolkwan](https://github.com/NsptPl)
-- [Ying Juan Yu](https://github.com/type-ur-username)
-- [Michael Salazar](https://github.com/type-ur-username)
+- [Tammy](https://github.com/tammyxa)
+- [Daniel](https://github.com/type-ur-username)
+- [Nisapat](https://github.com/NsptPl)
+- [Ying](https://github.com/type-ur-username)
+- [Michael](https://github.com/type-ur-username)
 
 ## About
 <p><i><ins>Situation: </ins></i> Our ideal customers are companies or employers that want to provide a
